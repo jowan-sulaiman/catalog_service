@@ -1,0 +1,10 @@
+name: catalog_service
+description: Vollstaendiges Dart-Microservice-Beispiel fuer eine digitale Schulbibliothek.
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ^3.9.0
+
+dev_dependencies:
+  test: ^1.25.8
